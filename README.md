@@ -3,5 +3,5 @@
 ## installation:
 pip install -r requirement.txt
 
-## setup
+## setup:
 chrome path, driver & other settings in inputs/settings.txt
